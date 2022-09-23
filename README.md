@@ -1,6 +1,6 @@
 # Tarkov-ammo-to-JSON-and-SQL
 
-El programa esta pensado para realizar un proyecto de wiki full-stack, por ello he requerido descargar los datos para posteriormente convertirla en una api local creada en MySQL y Spring.
+The program is intended for a full-stack wiki project, so I have required to download the data and then convert it into a local api created in MySQL and Spring.
 
 -----------------------------------------
 
